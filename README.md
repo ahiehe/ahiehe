@@ -1,8 +1,3 @@
-# 👋 Hello! I'm Andrey
-
-🎮 I'm a game developer using Unity and a frontend developer passionate about modern web technologies.  
-💡 I'm especially interested in game development, frontend design, and Python backend systems.
-
 ## 🛠️ Skills
 
 - **Frontend:** React, TypeScript, TailwindCSS, Redux Toolkit, shadcn/ui  
