@@ -14,16 +14,3 @@
 
 ➡️ My games are available on **[Yandex Games](https://yandex.ru/games/developer/77060)**
 
-## 🚀 Hackathon
-
-- Participated as a **frontend developer**  
-- Built UI with React + TailwindCSS, used Apollo Client for GraphQL  
-- Created and tested backend endpoints using FastAPI
-
-## 📫 Contact
-
-- ✉️ [a.perechesov@gmail.com](mailto:a.perechesov@gmail.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/andrey-perechesov-01103a364/)  
-
----
-
