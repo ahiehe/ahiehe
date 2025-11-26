@@ -2,7 +2,7 @@
 
 - **Frontend:** React, TypeScript, TailwindCSS, Redux Toolkit, shadcn/ui  
 - **Backend:** Python, FastAPI, unit testing (Pytest)  
-- **Game Dev:** Unity (C#), level design, AI behavior logic  
+- **Game Dev:** Unity (C#)  
 - **Other Tools:** Git, VS Code, Apollo Client, npm/yarn
 
 ## 🎮 My Games
