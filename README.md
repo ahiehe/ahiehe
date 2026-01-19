@@ -1,7 +1,7 @@
 ## Skills
 
-- **Frontend:** React, TypeScript, TailwindCSS, Redux Toolkit, shadcn/ui, Next js
-- **Backend:** Python, FastAPI
+- **Frontend:** React, TypeScript, TailwindCSS, Zustand, shadcn/ui, Next js
+- **Backend:** FastAPI, strawberry
 - **Game Dev:** Unity (C#)  
 
 ## My Games
